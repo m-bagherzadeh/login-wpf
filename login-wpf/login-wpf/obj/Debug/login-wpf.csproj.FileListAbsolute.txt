@@ -1,0 +1,5 @@
+C:\Users\Isatis\source\repos\login-wpf\login-wpf\obj\Debug\login-wpf.csprojAssemblyReference.cache
+C:\Users\Isatis\source\repos\login-wpf\login-wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Isatis\source\repos\login-wpf\login-wpf\obj\Debug\App.g.cs
+C:\Users\Isatis\source\repos\login-wpf\login-wpf\obj\Debug\login-wpf_MarkupCompile.cache
+C:\Users\Isatis\source\repos\login-wpf\login-wpf\obj\Debug\login-wpf_MarkupCompile.lref
